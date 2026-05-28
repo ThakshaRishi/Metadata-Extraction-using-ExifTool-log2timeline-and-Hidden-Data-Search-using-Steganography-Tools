@@ -30,7 +30,7 @@ Metadata and Timeline Forensics, Steganography Analysis Steps
 - **Embed data**
   ```
   steghide embed -cf (image path) -ef (text file path)
-  steghide embed -cf /home/bharathi/Downloads/png.jpeg -ef /home/bharathi/Downloads/hidden.txt
+  steghide embed -cf /home/kali/Downloads/png.jpeg -ef /home/kali/Downloads/hidden.txt
   ```
 - **Extract hidden data:**
   ```
